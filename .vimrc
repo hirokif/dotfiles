@@ -28,7 +28,7 @@ set smartindent
 set smarttab
 
 "**　バックアップファイルを作成しない **
-:set nobackup
+set nobackup
 
 "** ファイル別設定 **
 filetype on
