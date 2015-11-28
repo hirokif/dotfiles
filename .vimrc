@@ -27,6 +27,9 @@ set noexpandtab                     "挿入モードでタブ文字有効
 set smartindent
 set smarttab
 
+"**　バックアップファイルを作成しない **
+:set nobackup
+
 "** ファイル別設定 **
 filetype on
 autocmd FileType c,cpp,perl,html set cindent
